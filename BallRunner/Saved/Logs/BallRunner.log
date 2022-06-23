@@ -1191,3 +1191,266 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.23-08.47.44:240][157]LogSavePackage: Moving 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/MainLevelD2969D074196C0B174A13FAA6841D393.tmp' to 'D:/UE4/RepositoryBallRunner/BallRunner/Content/Levels/MainLevel.umap'
 [2022.06.23-08.47.44:264][157]AssetCheck: New page: Asset Save: MainLevel
 [2022.06.23-08.47.44:264][157]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2022.06.23-08.57.32:751][215]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2022.06.23-08.59.18:425][382]Cmd: TRANSACTION UNDO
+[2022.06.23-08.59.18:425][382]LogEditorTransaction: Undo Move Actors
+[2022.06.23-08.59.18:955][397]Cmd: TRANSACTION UNDO
+[2022.06.23-08.59.18:955][397]LogEditorTransaction: Undo Move Actors
+[2022.06.23-08.59.19:480][450]Cmd: TRANSACTION UNDO
+[2022.06.23-08.59.19:480][450]LogEditorTransaction: Undo Create Actors
+[2022.06.23-08.59.23:438][530]LogEditorViewport: Clicking Background
+[2022.06.23-08.59.48:235][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.06.23-08.59.48:239][ 66]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.014
+[2022.06.23-09.09.48:694][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.23-09.09.48:696][364]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.018
+[2022.06.23-09.12.22:954][668]Cmd: TRANSACTION UNDO
+[2022.06.23-09.12.22:954][668]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.23-09.12.23:568][687]Cmd: TRANSACTION UNDO
+[2022.06.23-09.12.23:568][687]LogEditorTransaction: Undo Create Folder
+[2022.06.23-09.12.44:393][635]LogEditorViewport: Clicking Background
+[2022.06.23-09.13.00:559][366]LogEditorViewport: Clicking Background
+[2022.06.23-09.13.17:416][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_733' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:416][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_733.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_734' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_734.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_735' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_735.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_736' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_736.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_737' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_737.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_738' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:417][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_738.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:418][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_739' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:418][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_739.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:418][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_740' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:418][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_740.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:418][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_741' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:418][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_741.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:418][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_742' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:418][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_742.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:419][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_743' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:419][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_743.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:419][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_744' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:419][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_744.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:419][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_745' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:419][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_745.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:419][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_746' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:419][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_746.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:419][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_747' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:420][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_747.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:420][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_748' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:420][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_748.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.17:420][803]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_749' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.17:420][803]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_749.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:566][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_733' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:566][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_733.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:566][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_734' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:566][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_734.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:566][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_735' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:566][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_735.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:566][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_736' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:566][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_736.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_737' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_737.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_738' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_738.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_739' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_739.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_740' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_740.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_741' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:567][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_741.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_742' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_742.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_743' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_743.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_744' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_744.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_745' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_745.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_746' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_746.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:568][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_747' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:569][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_747.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:569][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_748' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:569][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_748.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.18:569][830]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_749' invalid (112 verts, 0 indices).
+[2022.06.23-09.13.18:569][830]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/MainLevel.MainLevel:PersistentLevel.ModelComponent_749.BodySetup_0 when we are unable to.
+[2022.06.23-09.13.24:854][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UE4/RepositoryBallRunner/BallRunner/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.23-09.13.24:868][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.06.23-09.13.24:885][978]LogSavePackage: Moving 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/MainLevel39B3F28F44B8BE882CAED7874FD7A820.tmp' to 'D:/UE4/RepositoryBallRunner/BallRunner/Content/Levels/MainLevel.umap'
+[2022.06.23-09.13.24:911][978]AssetCheck: New page: Asset Save: MainLevel
+[2022.06.23-09.13.24:911][978]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2022.06.23-10.39.39:011][886]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.23-10.39.39:020][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.39.39:021][886]PIE: New page: PIE session: MainLevel (23 cze 2022, 14:39:39)
+[2022.06.23-10.39.39:022][886]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.06.23-10.39.39:030][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007752s)
+[2022.06.23-10.39.39:033][886]LogAIModule: Creating AISystem for world MainLevel
+[2022.06.23-10.39.39:033][886]LogPlayLevel: PIE: World Init took: (0.003630s)
+[2022.06.23-10.39.39:034][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.011759s)
+[2022.06.23-10.39.39:044][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.06.23-10.39.39:048][886]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.23-10.39.39:048][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.39.39:048][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.39.39:048][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.39.39:048][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.39.39:048][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.39.39:048][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.39.39:048][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.39.39:049][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.39.39:050][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.39.39:050][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.39.39:050][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.39.39:050][886]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.39.39:054][886]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.39.39:054][886]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.39.39:068][886]LogAudioMixer: Display: Using Audio Device SAMSUNG (2 — NVIDIA High Definition Audio)
+[2022.06.23-10.39.39:071][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.39.39:071][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.39.39:071][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.39.39:079][886]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.39.39:079][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.39.39:079][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.39.39:081][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.39.39:081][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.39.39:081][886]LogInit: FAudioDevice initialized.
+[2022.06.23-10.39.39:082][886]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2022.06.23-10.39.39:106][886]LogLoad: Game class is 'GameModeBase'
+[2022.06.23-10.39.39:109][886]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.06.23-12.39.39
+[2022.06.23-10.39.39:110][886]LogWorld: Bringing up level for play took: 0.002444
+[2022.06.23-10.39.39:111][886]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.06.23-10.39.39:116][886]PIE: Server logged in
+[2022.06.23-10.39.39:117][886]PIE: Play in editor total start time 0,098 seconds.
+[2022.06.23-10.39.41:048][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.39.41:048][967]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2022.06.23-10.39.41:048][967]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.39.41:049][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.39.41:063][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.39.41:066][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.39.41:074][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.39.41:074][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.39.41:076][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.39.41:081][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.06.23-10.39.41:118][970]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.23-10.45.09:295][840]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2022.06.23-10.45.18:729][716]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2022.06.23-10.46.25:386][360]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.06.23-10.46.27:133][395]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.23-10.46.27:141][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-10.46.27:141][395]PIE: New page: PIE session: MainLevel (23 cze 2022, 14:46:27)
+[2022.06.23-10.46.27:141][395]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2022.06.23-10.46.27:148][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006724s)
+[2022.06.23-10.46.27:150][395]LogAIModule: Creating AISystem for world MainLevel
+[2022.06.23-10.46.27:150][395]LogPlayLevel: PIE: World Init took: (0.002410s)
+[2022.06.23-10.46.27:150][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.009295s)
+[2022.06.23-10.46.27:163][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.06.23-10.46.27:169][395]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.23-10.46.27:169][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-10.46.27:169][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-10.46.27:169][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-10.46.27:169][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-10.46.27:169][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-10.46.27:169][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-10.46.27:169][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-10.46.27:169][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-10.46.27:170][395]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-10.46.27:170][395]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-10.46.27:170][395]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-10.46.27:170][395]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-10.46.27:174][395]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-10.46.27:174][395]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-10.46.27:188][395]LogAudioMixer: Display: Using Audio Device SAMSUNG (2 — NVIDIA High Definition Audio)
+[2022.06.23-10.46.27:188][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-10.46.27:188][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-10.46.27:188][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-10.46.27:190][395]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-10.46.27:190][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-10.46.27:190][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.23-10.46.27:191][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-10.46.27:191][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-10.46.27:191][395]LogInit: FAudioDevice initialized.
+[2022.06.23-10.46.27:191][395]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2022.06.23-10.46.27:200][395]LogLoad: Game class is 'GameModeBase'
+[2022.06.23-10.46.27:203][395]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.06.23-12.46.27
+[2022.06.23-10.46.27:203][395]LogWorld: Bringing up level for play took: 0.001535
+[2022.06.23-10.46.27:203][395]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.06.23-10.46.27:207][395]PIE: Server logged in
+[2022.06.23-10.46.27:208][395]PIE: Play in editor total start time 0,069 seconds.
+[2022.06.23-10.46.47:952][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.46.47:952][787]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2022.06.23-10.46.47:952][787]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-10.46.47:952][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.46.47:983][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-10.46.48:004][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-10.46.48:012][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-10.46.48:012][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.46.48:014][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-10.46.48:016][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-10.46.48:018][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.06.23-10.46.48:050][788]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.06.23-10.47.25:748][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.06.23-10.47.25:749][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UE4/RepositoryBallRunner/BallRunner/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.23-10.47.25:764][587]LogSavePackage: Moving 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/MainLevel_Auto5ACC4E7DE4EE4D0D105E69C809B11C288.tmp' to 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap'
+[2022.06.23-10.47.25:764][587]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.026
+[2022.06.23-10.47.25:764][587]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2022.06.23-10.48.07:293][739]Cmd: TRANSACTION UNDO
+[2022.06.23-10.48.07:293][739]LogEditorTransaction: Undo Move World Outliner Items
+[2022.06.23-10.49.44:893][509]LogEditorViewport: Clicking Background
+[2022.06.23-10.50.57:444][ 18]Cmd: DELETE
+[2022.06.23-10.50.57:444][ 18]Cmd: ACTOR DELETE
+[2022.06.23-10.50.57:457][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.23-10.50.57:460][ 18]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2022.06.23-10.51.05:775][310]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.23-10.51.05:785][310]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.23-10.51.14:058][484]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.06.23-10.51.14:060][484]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.23-10.52.48:996][304]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.23-10.53.03:715][304]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.23-10.53.03:724][304]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.23-10.53.03:734][304]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.23-10.53.25:461][764]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Crystal
+[2022.06.23-10.53.25:477][764]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.23-10.53.27:083][798]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Crystal.BP_Crystal
+[2022.06.23-10.53.28:269][798]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0029 seconds. Added 126 classes and 0 folders.
+[2022.06.23-10.53.30:324][799]LogRenderer: Reallocating scene render targets to support 1312x760 Format 10 NumSamples 1 (Frame:1).
+[2022.06.23-11.05.28:776][375]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.23-11.05.33:879][467]LogEditorTransaction: Undo Add Component
+[2022.06.23-11.05.44:232][782]Cmd: TRANSACTION REDO
+[2022.06.23-11.05.44:232][782]LogEditorTransaction: Redo Add Component
+[2022.06.23-11.07.52:225][591]LogRenderer: Reallocating scene render targets to support 1312x900 Format 10 NumSamples 1 (Frame:9769).
+[2022.06.23-11.08.27:363][ 17]LogSlate: Window 'Content Browser 2' being destroyed
+[2022.06.23-11.09.14:371][673]LogEditorTransaction: Undo Add Component
+[2022.06.23-11.14.06:648][295]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.23-11.16.52:682][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Crystal" FILE="D:/UE4/RepositoryBallRunner/BallRunner/Content/Blueprints/BP_Crystal.uasset" SILENT=true
+[2022.06.23-11.16.52:715][266]LogSavePackage: Moving 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/BP_Crystal26DB667947C7D7043D8E949821A3DE3A.tmp' to 'D:/UE4/RepositoryBallRunner/BallRunner/Content/Blueprints/BP_Crystal.uasset'
+[2022.06.23-11.16.52:741][266]AssetCheck: New page: Asset Save: BP_Crystal
+[2022.06.23-11.16.52:742][266]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Crystal.BP_Crystal
+[2022.06.23-11.16.57:531][328]LogSlate: Window 'BP_Crystal' being destroyed
+[2022.06.23-11.16.57:612][328]LogSlate: Window 'BP_Crystal' being destroyed
+[2022.06.23-11.16.57:618][328]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-11.16.57:618][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-11.18.14:748][  1]Cmd: EDIT COPY
+[2022.06.23-11.18.14:990][  5]Cmd: EDIT PASTE
+[2022.06.23-11.18.23:058][142]Cmd: EDIT PASTE
+[2022.06.23-11.18.30:075][264]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal2)
+[2022.06.23-11.18.38:459][406]Cmd: EDIT COPY
+[2022.06.23-11.18.38:711][409]Cmd: EDIT PASTE
+[2022.06.23-11.18.47:248][555]Cmd: EDIT PASTE
+[2022.06.23-11.18.52:899][652]Cmd: EDIT PASTE
+[2022.06.23-11.19.03:275][832]Cmd: EDIT COPY
+[2022.06.23-11.19.03:558][837]Cmd: EDIT PASTE
+[2022.06.23-11.19.12:400][997]Cmd: EDIT PASTE
+[2022.06.23-11.19.19:793][129]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_C (BP_Crystal4)
+[2022.06.23-11.19.20:888][149]Cmd: EDIT COPY
+[2022.06.23-11.19.21:460][159]Cmd: EDIT PASTE
+[2022.06.23-11.19.25:025][221]Cmd: EDIT PASTE
+[2022.06.23-11.19.30:125][311]Cmd: EDIT PASTE
+[2022.06.23-11.19.35:713][410]Cmd: EDIT PASTE
+[2022.06.23-11.19.41:556][513]LogEditorViewport: Clicking Background
+[2022.06.23-11.21.05:371][632]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2022.06.23-11.21.05:380][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UE4/RepositoryBallRunner/BallRunner/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.06.23-11.21.05:401][632]LogSavePackage: Moving 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/MainLevel_Auto6880511EF424C9BE70963929FB43C1103.tmp' to 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap'
+[2022.06.23-11.21.05:403][632]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.172
+[2022.06.23-11.21.05:403][632]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.172
