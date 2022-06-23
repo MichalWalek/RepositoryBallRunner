@@ -1454,3 +1454,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.23-11.21.05:401][632]LogSavePackage: Moving 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/MainLevel_Auto6880511EF424C9BE70963929FB43C1103.tmp' to 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap'
 [2022.06.23-11.21.05:403][632]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.172
 [2022.06.23-11.21.05:403][632]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.172
+[2022.06.23-11.24.53:149][405]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.06.23-11.24.55:890][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UE4/RepositoryBallRunner/BallRunner/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.23-11.24.55:976][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.06.23-11.24.55:999][474]LogSavePackage: Moving 'D:/UE4/RepositoryBallRunner/BallRunner/Saved/MainLevel9F71A6C748E69C8401B5F985B75DA761.tmp' to 'D:/UE4/RepositoryBallRunner/BallRunner/Content/Levels/MainLevel.umap'
+[2022.06.23-11.24.56:019][474]AssetCheck: New page: Asset Save: MainLevel
+[2022.06.23-11.24.56:019][474]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
